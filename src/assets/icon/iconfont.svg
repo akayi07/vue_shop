@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="mima" unicode="&#58927;" d="M879.849856 510.97515h-106.549958V639.4001S796.749889 896 512 896c0 0-258.287399 0-258.287399-258.112399v-126.912451H144.137644a53.549979 53.549979 0 0 1-53.749979-53.012479v-533.074792c0-29.087489 24.212491-52.887479 53.749979-52.887479H879.849856a53.549979 53.549979 0 0 1 53.749979 52.937479V458.025171a53.549979 53.549979 0 0 1-53.749979 52.937479z m-529.524793 0V637.900101S348.275064 799.937538 517.062498 799.937538c0 0 159.137438 4.999998 159.137438-159.999938v-128.96245z m0 0"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
